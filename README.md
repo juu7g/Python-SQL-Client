@@ -10,6 +10,8 @@ Enter SQL and display the result in list view
 
 ## 特徴 Features
 
+- TkinterのTreeviewを使用  
+	Use Treeview in Tkinter 
 - １行おきに背景色を変える  
 	Change the background color every other line  
 - 列の幅を自動調整  
