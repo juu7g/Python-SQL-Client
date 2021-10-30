@@ -42,6 +42,10 @@ Enter SQL and display the result in list view
 - pip install psycopg2  
 - PostgreSQLについては、[日本PostgreSQLユーザ会 | 日本PostgreSQLユーザ会](https://www.postgresql.jp/)を参照  
 
+## プログラムの説明サイト Program description site
+
+[SQLクライアントアプリの作り方(Tkinter-Treeview)【Python】 - プログラムでおかえしできるかな](https://juu7g.hatenablog.com/entry/Python/sql/client)  
+
 ## 作者 Authors
 juu7g
 
